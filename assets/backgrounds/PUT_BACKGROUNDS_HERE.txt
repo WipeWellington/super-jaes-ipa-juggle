@@ -1,0 +1,9 @@
+Drop your 16:9 background images here, named exactly:
+  bg_stage1_cvb.png          Stage 1  (0 pts)    Chula Vista Brewery
+  bg_stage2_archway.png      Stage 2  (100 pts)  The Archway
+  bg_stage3_brewjeria.png    Stage 3  (200 pts)  Brewjería Taproom
+  bg_stage4_sinnombre.png    Stage 4  (300 pts)  Bar Sin Nombre
+  bg_stage5_lospanchos.png   Stage 5  (450 pts)  Los Panchos Taco Shop
+Missing images are fine: the screen stays plain cream (or keeps the previous stage's art).
+Open the project in the Godot editor once after adding them so they get imported.
+If the blank hanging sign in your art isn't at the top-center, tweak SIGN_RECT in scripts/game_and_watch.gd.

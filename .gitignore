@@ -1,0 +1,16 @@
+# Godot cache and the bundled editor binaries
+.godot/
+tools/godot/
+
+# Personal photos and loose source images (never published)
+*.jpg
+*.jpeg
+/957d587b-*.png
+/los panchos.png
+/Super Jae*.png
+/raw_artchar*.png
+/raw_art/
+*.png.import
+!assets/**/*.png.import
+*.jpg.import
+*.jpeg.import

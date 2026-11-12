@@ -1,0 +1,22 @@
+[gd_resource type="Theme" load_steps=2 format=3]
+
+[ext_resource type="FontFile" path="res://assets/fonts/cartoon_font.ttf" id="1_font"]
+
+[resource]
+default_font = ExtResource("1_font")
+default_font_size = 24
+Button/colors/font_color = Color(0.96, 0.91, 0.78, 1)
+Button/colors/font_outline_color = Color(0.08, 0.05, 0.03, 1)
+Button/constants/outline_size = 6
+Label/colors/font_color = Color(0.96, 0.91, 0.78, 1)
+Label/colors/font_outline_color = Color(0.08, 0.05, 0.03, 1)
+Label/colors/font_shadow_color = Color(0.08, 0.05, 0.03, 0.55)
+Label/constants/outline_size = 8
+Label/constants/shadow_offset_x = 3
+Label/constants/shadow_offset_y = 4
+RichTextLabel/colors/default_color = Color(0.96, 0.91, 0.78, 1)
+RichTextLabel/colors/font_outline_color = Color(0.08, 0.05, 0.03, 1)
+RichTextLabel/colors/font_shadow_color = Color(0.08, 0.05, 0.03, 0.55)
+RichTextLabel/constants/outline_size = 8
+RichTextLabel/constants/shadow_offset_x = 3
+RichTextLabel/constants/shadow_offset_y = 4
