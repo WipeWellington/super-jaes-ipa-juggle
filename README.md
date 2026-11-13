@@ -1,5 +1,7 @@
 # Super Jae's IPA Juggle (Godot 4.3)
 
+**▶ Play it: https://wipewellington.github.io/super-jaes-ipa-juggle/** (phones too, best in landscape; "Add to Home Screen" for a full-screen app icon)
+
 A Game & Watch-style juggling game with 1930s rubber-hose characters, inside a brass-and-wood handheld frame.
 
 ## Play
